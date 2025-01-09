@@ -1,0 +1,25 @@
+.personlist{
+    background-color: crimson;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 30px;
+
+}
+
+.person {
+    background-color: darkmagenta;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.birthdayButtontab {
+    background-color: blueviolet;
+}
+
+.birthdayButton {
+    text-align: center;
+    background-color: indianred;
+    box-shadow: 2px 2px 2px 2px lightcoral ;
+}
